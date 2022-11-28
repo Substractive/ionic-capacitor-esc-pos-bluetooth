@@ -1,0 +1,7 @@
+{
+  "name": "Ionic Capacitor escpos bluetooth",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

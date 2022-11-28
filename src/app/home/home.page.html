@@ -1,0 +1,31 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-title>
+      Blank
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  <ion-header collapse="condense">
+    <ion-toolbar>
+      <ion-title size="large">Blank</ion-title>
+    </ion-toolbar>
+  </ion-header>
+
+  <div id="container">
+   <ion-grid>
+     <ion-row>
+       <ion-col>
+         <ion-button (click)="listDevices()">List devices</ion-button>
+       </ion-col>
+       <ion-col>
+         <ion-button (click)="discoverUnpaired()">Discover unpaired</ion-button>
+       </ion-col>
+       <ion-col>
+         <ion-button (click)="demoPrint()">Demo print</ion-button>
+       </ion-col>
+     </ion-row>
+   </ion-grid>
+  </div>
+</ion-content>
