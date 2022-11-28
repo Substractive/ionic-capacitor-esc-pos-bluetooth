@@ -1,11 +1,11 @@
-# ESC POS IONIC 6 CAPACITOR ANGULAR
+# ESC POS IONIC 6 CAPACITOR ANGULAR - ANDROID BLUETOOTH
 
 ---
 
 ## Notes
  * Tested on android device
  * Manually paired with bluetooth printer.
- * Example works tested only on bluetooth connection
+ * Example tested only on bluetooth connection with android device
 
 ---
 
